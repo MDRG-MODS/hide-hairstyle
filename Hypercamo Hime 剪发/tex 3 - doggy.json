@@ -1,0 +1,38 @@
+{
+    "PackedTextures": [
+        {
+            "TextureName": "tex 3 - doggy_texture0_layer0.png",
+            "Layer": 0,
+            "PackedDrawables": [
+                {
+                    "Name": "H3_Side_Right",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 178,
+                        "height": 350
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "H3_Side_Left",
+                    "RectInt": {
+                        "x": 193,
+                        "y": 5,
+                        "width": 162,
+                        "height": 325
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                }
+            ],
+            "Targets": [
+                "doggy"
+            ],
+            "DontIncludeVanillaLayers": false
+        }
+    ]
+}

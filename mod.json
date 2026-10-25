@@ -1,0 +1,17 @@
+{
+    "name": "Hide Hairstyle",
+    "description": "Necessary conditions for using the hairstyle mod I made before.",
+    "OnGameStart": {
+        "luaScript": "",
+        "luaFiles": [
+            "script.lua"
+        ]
+    },
+    "targetVersion": "0.90.7",
+    "doNotChangeVariablesBelowThis": {
+        "timeCreated": 638085863694076180,
+        "guid": {
+            "serializedGuid": "2a63ed2b-3e0a-41bf-9bc0-3b84cb75089c"
+        }
+    }
+}

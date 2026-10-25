@@ -1,0 +1,38 @@
+{
+    "PackedTextures": [
+        {
+            "TextureName": "tex 20 - cowgirl_texture0_layer0.png",
+            "Layer": 0,
+            "PackedDrawables": [
+                {
+                    "Name": "H3_Back",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 761,
+                        "height": 1168
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "H3_Back_Top",
+                    "RectInt": {
+                        "x": 776,
+                        "y": 5,
+                        "width": 655,
+                        "height": 592
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                }
+            ],
+            "Targets": [
+                "cowgirl"
+            ],
+            "DontIncludeVanillaLayers": false
+        }
+    ]
+}

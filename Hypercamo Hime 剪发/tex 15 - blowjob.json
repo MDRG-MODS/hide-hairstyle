@@ -1,0 +1,26 @@
+{
+    "PackedTextures": [
+        {
+            "TextureName": "tex 15 - blowjob_texture0_layer0.png",
+            "Layer": 0,
+            "PackedDrawables": [
+                {
+                    "Name": "H3_Side",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 647,
+                        "height": 647
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                }
+            ],
+            "Targets": [
+                "blowjob"
+            ],
+            "DontIncludeVanillaLayers": false
+        }
+    ]
+}

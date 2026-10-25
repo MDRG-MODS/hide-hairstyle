@@ -1,0 +1,29 @@
+{
+    "PackedTextures": [
+        {
+            "TextureName": "tex 1 - blowjob, cowgirl, interaction, missionary_texture0_layer1.png",
+            "Layer": 1,
+            "PackedDrawables": [
+                {
+                    "Name": "H3_Front",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 587,
+                        "height": 437
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                }
+            ],
+            "Targets": [
+                "blowjob",
+                "cowgirl",
+                "interaction",
+                "missionary"
+            ],
+            "DontIncludeVanillaLayers": false
+        }
+    ]
+}
